@@ -1,6 +1,6 @@
 == README
 
-Hello Im Hoan, 
-This code for my first application built by Ruby on Rails.
-If you're interested, clone and run it on localhost.
-Thanks!
+* Hello Im Hoan, 
+* This code for my first application built by Ruby on Rails.
+* If you're interested, clone and run it on localhost.
+* Thanks!
